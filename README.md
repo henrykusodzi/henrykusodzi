@@ -50,7 +50,7 @@ My academic and research background includes Mathematical Sciences and Mathemati
 
 ## 👨‍🏫 Professional Experience
 
-**Data Scientist & Instructor | Blossom Academy**
+***Data Scientist & Instructor | Blossom Academy***
 
 Training and mentoring aspiring data professionals in data analytics, programming, business intelligence, and applied data science. Supporting learning and professional development across Ghana and Rwanda.
 
