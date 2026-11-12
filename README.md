@@ -25,7 +25,7 @@ My academic and research background includes Mathematical Sciences and Mathemati
 ## 🛠️ Technical Skills & Tools
 
 | Category | Technologies |
-|---|---|
+|-|-|
 | Programming | Python, SQL, Javascript |
 | Data Visualization | Power BI, Matplotlib, Seaborn |
 | Machine Learning | Scikit-learn, Predictive Modelling, Statistical Learning |
