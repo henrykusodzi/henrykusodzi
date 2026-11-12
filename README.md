@@ -1,5 +1,5 @@
 
-# Hi, I'm Henry Kusodzi 👋
+# Hi, I'm Henry Kusodzi
 
 ### Data Scientist | Machine Learning Engineer | Data Analytics Educator | Researcher
 
@@ -85,8 +85,8 @@ I am continuously learning, experimenting, building, and sharing knowledge with 
 
 I am always open to meaningful collaborations, research opportunities, knowledge sharing, and conversations around data science, machine learning, artificial intelligence, and technology.
 
-- **LinkedIn:** [Connect with me](YOUR_LINKEDIN_URL)
-- **Email:** YOUR_EMAIL_ADDRESS
+- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/henry-kusodzi/)
+- **Email:** hkusodzi@gmail.com
 - **GitHub:** [Explore my repositories](https://github.com/YOUR_GITHUB_USERNAME)
 
 ---
